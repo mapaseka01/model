@@ -1,3 +1,8 @@
 body {
     background-color: rgb(0, 255, 72);
 }
+
+.row{
+    float: left;
+    margin-left: 20px;
+}
